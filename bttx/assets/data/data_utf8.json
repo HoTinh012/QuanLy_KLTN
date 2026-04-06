@@ -1,0 +1,401 @@
+{
+  "Data": [
+    {
+      "Email": "323553@student.hcmute.edu.vn",
+      "Role": "Student",
+      "Major": "QLCN",
+      "HeDaoTao": "CLC"
+    },
+    {
+      "Email": "Thiennd@hcmute.edu.vn",
+      "Role": "Lecturer",
+      "Major": "QLCN",
+      "HeDaoTao": "Daitra"
+    },
+    {
+      "Email": "123@@hcmute.edu.vn",
+      "Role": "TBM",
+      "Major": "QLCN"
+    },
+    {
+      "Email": "thienise@gmail.com",
+      "Role": "Lecturer",
+      "Major": "QLCN"
+    },
+    {
+      "Email": "23124121@student.hcmute.edu.vn",
+      "Role": "Student",
+      "Major": "QLCN"
+    },
+    {
+      "Email": "23124173@student.hcmute.edu.vn"
+    }
+  ],
+  "Dot": [
+    {
+      "StartReg": 46110,
+      "EndReg": 46119,
+      "Loaidetai": "KLTN",
+      "Major": "QLCN",
+      "Dot": "Đợt 1 HK1 26-27",
+      "Active": "No"
+    },
+    {
+      "StartReg": 46110,
+      "EndReg": 46119,
+      "Loaidetai": "BCTT",
+      "Major": "QLCN",
+      "Dot": "Đợt 2 HK1 26-27",
+      "Active": "No"
+    },
+    {
+      "StartReg": 46110,
+      "EndReg": 46119,
+      "Loaidetai": "KLTN",
+      "Major": "QLCN",
+      "Dot": "Đợt 1 HK1 26-27",
+      "Active": "Yes"
+    },
+    {
+      "StartReg": 46110,
+      "EndReg": 46119,
+      "Loaidetai": "BCTT",
+      "Major": "QLCN",
+      "Dot": "Đợt 2 HK1 26-27",
+      "Active": "Yes"
+    },
+    {
+      "StartReg": 46110,
+      "EndReg": 46119,
+      "Loaidetai": "KLTN",
+      "Major": "ECom",
+      "Dot": "Đợt 1 HK1 26-27",
+      "Active": "Yes"
+    },
+    {
+      "StartReg": 46110,
+      "EndReg": 46119,
+      "Loaidetai": "BCTT",
+      "Major": "ECom",
+      "Dot": "Đợt 2 HK1 26-27",
+      "Active": "Yes"
+    },
+    {
+      "StartReg": 46110,
+      "EndReg": 46119,
+      "Loaidetai": "KLTN",
+      "Major": "IntBus",
+      "Dot": "Đợt 1 HK1 26-27",
+      "Active": "Yes"
+    },
+    {
+      "StartReg": 46110,
+      "EndReg": 46119,
+      "Loaidetai": "BCTT",
+      "Major": "IntBus",
+      "Dot": "Đợt 2 HK1 26-27",
+      "Active": "Yes"
+    },
+    {
+      "StartReg": 46110,
+      "EndReg": 46119,
+      "Loaidetai": "KLTN",
+      "Major": "Log",
+      "Dot": "Đợt 1 HK1 26-27",
+      "Active": "Yes"
+    },
+    {
+      "StartReg": 46110,
+      "EndReg": 46119,
+      "Loaidetai": "BCTT",
+      "Major": "Log",
+      "Dot": "Đợt 2 HK1 26-27",
+      "Active": "Yes"
+    }
+  ],
+  "Trangthaidetai": [
+    {
+      "EmailSV": "123887@student.hcmute.edu.vn",
+      "EmailGV": "000@hcmute.edu.vn",
+      "Role": "GVHD",
+      "Diadiem": "Online",
+      "End": "Yes"
+    },
+    {
+      "EmailSV": "123887@student.hcmute.edu.vn",
+      "EmailGV": "111@hcmute.edu.vn",
+      "Role": "GVPB",
+      "Diadiem": "Online",
+      "End": "Yes"
+    },
+    {
+      "EmailSV": "123887@student.hcmute.edu.vn",
+      "EmailGV": "111@hcmute.edu.vn",
+      "Role": "TVHD",
+      "Diadiem": "HD1-P301",
+      "End": "Yes"
+    },
+    {
+      "EmailSV": "123887@student.hcmute.edu.vn",
+      "EmailGV": "123@hcmute.edu.vn",
+      "Role": "TVHD",
+      "Diadiem": "HD1-P301",
+      "End": "Yes"
+    },
+    {
+      "EmailSV": "123887@student.hcmute.edu.vn",
+      "EmailGV": "345@hcmute.edu.vn",
+      "Role": "CTHD",
+      "Diadiem": "HD1-P301",
+      "End": "Yes"
+    },
+    {
+      "EmailSV": "123887@student.hcmute.edu.vn",
+      "EmailGV": "678@hcmute.edu.vn",
+      "Role": "ThukyHD",
+      "Diadiem": "HD1-P301",
+      "End": "Yes"
+    },
+    {
+      "EmailSV": "123456@student.hcmute.edu.vn",
+      "EmailGV": "111@hcmute.edu.vn",
+      "Role": "GVHD",
+      "Diadiem": "Online"
+    },
+    {
+      "EmailSV": "123456@student.hcmute.edu.vn",
+      "EmailGV": "123@hcmute.edu.vn",
+      "Role": "GVPB",
+      "Diadiem": "Online"
+    },
+    {
+      "EmailSV": "123456@student.hcmute.edu.vn",
+      "EmailGV": "111@hcmute.edu.vn",
+      "Role": "TVHD",
+      "Diadiem": "HD1-P301",
+      "End": "No"
+    },
+    {
+      "EmailSV": "123456@student.hcmute.edu.vn",
+      "EmailGV": "123@hcmute.edu.vn",
+      "Role": "TVHD",
+      "Diadiem": "HD1-P301",
+      "End": "No"
+    },
+    {
+      "EmailSV": "123456@student.hcmute.edu.vn",
+      "EmailGV": "345@hcmute.edu.vn",
+      "Role": "CTHD",
+      "Diadiem": "HD1-P301",
+      "End": "No"
+    },
+    {
+      "EmailSV": "123456@student.hcmute.edu.vn",
+      "EmailGV": "678@hcmute.edu.vn",
+      "Role": "ThukyHD",
+      "Diadiem": "HD1-P301",
+      "End": "No"
+    },
+    {
+      "EmailSV": "120000@student.hcmute.edu.vn",
+      "EmailGV": "000@hcmute.edu.vn",
+      "Role": "GVHD",
+      "Diadiem": "Online"
+    },
+    {
+      "EmailSV": "120000@student.hcmute.edu.vn",
+      "EmailGV": "111@hcmute.edu.vn",
+      "Role": "GVPB",
+      "Diadiem": "Online"
+    },
+    {
+      "EmailSV": "120000@student.hcmute.edu.vn",
+      "EmailGV": "111@hcmute.edu.vn",
+      "Role": "TVHD",
+      "Diadiem": "HD1-P301"
+    },
+    {
+      "EmailSV": "120000@student.hcmute.edu.vn",
+      "EmailGV": "123@hcmute.edu.vn",
+      "Role": "TVHD",
+      "Diadiem": "HD1-P301"
+    },
+    {
+      "EmailSV": "120000@student.hcmute.edu.vn",
+      "EmailGV": "345@hcmute.edu.vn",
+      "Role": "CTHD",
+      "Diadiem": "HD1-P301"
+    },
+    {
+      "EmailSV": "120000@student.hcmute.edu.vn",
+      "EmailGV": "678@hcmute.edu.vn",
+      "Role": "ThukyHD",
+      "Diadiem": "HD1-P301"
+    },
+    {
+      "EmailSV": "1200006@student.hcmute.edu.vn",
+      "EmailGV": "111@hcmute.edu.vn",
+      "Role": "GVHD",
+      "Diadiem": "Online"
+    },
+    {
+      "EmailSV": "1200006@student.hcmute.edu.vn",
+      "EmailGV": "123@hcmute.edu.vn",
+      "Role": "GVPB",
+      "Diadiem": "Online"
+    },
+    {
+      "EmailSV": "1200006@student.hcmute.edu.vn",
+      "EmailGV": "111@hcmute.edu.vn",
+      "Role": "TVHD",
+      "Diadiem": "HD1-P301"
+    },
+    {
+      "EmailSV": "1200006@student.hcmute.edu.vn",
+      "EmailGV": "123@hcmute.edu.vn",
+      "Role": "TVHD",
+      "Diadiem": "HD1-P301"
+    },
+    {
+      "EmailSV": "1200006@student.hcmute.edu.vn",
+      "EmailGV": "345@hcmute.edu.vn",
+      "Role": "CTHD",
+      "Diadiem": "HD1-P301"
+    },
+    {
+      "EmailSV": "1200006@student.hcmute.edu.vn",
+      "EmailGV": "678@hcmute.edu.vn",
+      "Role": "ThukyHD",
+      "Diadiem": "HD1-P301"
+    }
+  ],
+  "TenDetai": [
+    {
+      "EmailSV": "123887@student.hcmute.edu.vn",
+      "Tendetai": "lakjlfdkjalf",
+      "DotHK": "Đợt 1 HK1 26-27",
+      "Loaidetai": "KLTN",
+      "Version": 1,
+      "Linkbai": "Link bài sau khi xong KLTN"
+    },
+    {
+      "EmailSV": "123345@student.hcmute.edu.vn",
+      "Tendetai": "dfhk",
+      "DotHK": "Đợt 1 HK1 26-27",
+      "Loaidetai": "BCTT"
+    },
+    {
+      "EmailSV": "123887@student.hcmute.edu.vn",
+      "Tendetai": "lakjlfdkjalf",
+      "DotHK": "Đợt 1 HK1 26-27",
+      "Loaidetai": "KLTN",
+      "Version": 2,
+      "Linkbai": "Link bài chỉnh sửa sau khi bảo vệ"
+    },
+    {
+      "DotHK": "Version",
+      "Loaidetai": "1: Bài nộp khi thực hiện xong => GVHD chấm"
+    },
+    {
+      "Loaidetai": "2: Bài chỉnh sửa sau khi bảo vệ trước hội đồng"
+    }
+  ],
+  "Bienban": [
+    {
+      "Email": "123887@student.hcmute.edu.vn",
+      "Bienban": "Link Biên bản 1: GVHD"
+    },
+    {
+      "Email": "123887@student.hcmute.edu.vn",
+      "Bienban": "Link Biên bản 2: GVPB"
+    },
+    {
+      "Email": "123887@student.hcmute.edu.vn",
+      "Bienban": "Link Biên bản 3: CTHD"
+    },
+    {
+      "Email": "123887@student.hcmute.edu.vn",
+      "Bienban": "Link Biên bản 4: TVHD1"
+    },
+    {
+      "Email": "123887@student.hcmute.edu.vn",
+      "Bienban": "Link Biên bản 5: TVHD2"
+    },
+    {
+      "Email": "123887@student.hcmute.edu.vn",
+      "Bienban": "Link Biên bản 6: TVHD3"
+    },
+    {
+      "Email": "123887@student.hcmute.edu.vn",
+      "Bienban": "Link Biên bản 7: TKHD"
+    }
+  ],
+  "Quota": [
+    {
+      "Email": "thiennd@hcmute.edu.vn",
+      "Major": "QLCN",
+      "HeDaoTao": "DaiTra",
+      "Quota": 7
+    },
+    {
+      "Email": "thiennd@hcmute.edu.vn",
+      "Major": "QLCN",
+      "HeDaoTao": "CLC",
+      "Quota": 8
+    },
+    {
+      "Email": "thiennd@hcmute.edu.vn",
+      "Major": "ECom",
+      "HeDaoTao": "DaiTra",
+      "Quota": 4
+    },
+    {
+      "Email": "hongnt@hcmute.edu.vn",
+      "Major": "QLCN",
+      "HeDaoTao": "DaiTra",
+      "Quota": 2
+    }
+  ],
+  "Major": [
+    {
+      "Email": "thiennd@hcmute.edu.vn",
+      "Major": "QLCN",
+      "Field": "KSCL"
+    },
+    {
+      "Email": "thiennd@hcmute.edu.vn",
+      "Major": "QLCN",
+      "Field": "PM"
+    },
+    {
+      "Email": "thiennd@hcmute.edu.vn",
+      "Major": "QLCN",
+      "Field": "PTKD"
+    },
+    {
+      "Email": "hongnt@hcmute.edu.vn",
+      "Major": "QLCN",
+      "Field": "TKWeb"
+    },
+    {
+      "Email": "thiennd@hcmute.edu.vn",
+      "Major": "ECom",
+      "Field": "AI"
+    },
+    {
+      "Email": "vannta@hcmute.edu.vn",
+      "Major": "QLCN",
+      "Field": "KSCL"
+    },
+    {
+      "Email": "lamgiang@hcmute.edu.vn",
+      "Major": "QLCN",
+      "Field": "KSCL"
+    }
+  ],
+  "Detaigoiy": [
+    {
+      "Email": "Thiennd@hcmute.edu.vn"
+    }
+  ]
+}
