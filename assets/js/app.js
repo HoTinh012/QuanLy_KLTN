@@ -665,14 +665,13 @@ async function initApp() {
     }
 
     // Google Button Behavior for Offline vs Online
-    const isLocal = window.location.protocol === 'file:';
     const gContainer = document.querySelector('.g_id_signin');
-    if (isLocal && gContainer) {
+    if (gContainer) {
         gContainer.innerHTML = `
             <button onclick="window.showQuickLogin()" 
               class="w-full py-4 bg-white text-slate-700 border border-slate-200 rounded-2xl font-black text-sm shadow-xl shadow-slate-200/50 hover:bg-slate-50 active:scale-[0.98] transition-all flex items-center justify-center gap-3">
               <img src="https://www.gstatic.com/images/branding/product/1x/gsa_512dp.png" class="w-5 h-5" alt="G">
-              CHỌN TÀI KHOẢN GOOGLE (OFFLINE)
+              CHỌN TÀI KHOẢN ĐĂNG NHẬP
             </button>
         `;
     }
