@@ -1,0 +1,6 @@
+node_modules/
+.vercel/
+*.log
+data/data_utf8.json
+# Uncomment the following to prevent Excel files from being public
+# data/*.xlsx
